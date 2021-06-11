@@ -1,0 +1,8 @@
+(function() {var implementors = {};
+implementors["futures_channel"] = [{"text":"impl StructuralPartialEq for Canceled","synthetic":false,"types":[]}];
+implementors["futures_util"] = [{"text":"impl StructuralPartialEq for Aborted","synthetic":false,"types":[]}];
+implementors["io_uring"] = [{"text":"impl StructuralPartialEq for TimeoutFlags","synthetic":false,"types":[]},{"text":"impl StructuralPartialEq for FsyncFlags","synthetic":false,"types":[]},{"text":"impl StructuralPartialEq for Flags","synthetic":false,"types":[]}];
+implementors["io_uring_callback"] = [{"text":"impl StructuralPartialEq for IoState","synthetic":false,"types":[]}];
+implementors["parking_lot"] = [{"text":"impl StructuralPartialEq for WaitTimeoutResult","synthetic":false,"types":[]},{"text":"impl StructuralPartialEq for OnceState","synthetic":false,"types":[]}];
+implementors["parking_lot_core"] = [{"text":"impl StructuralPartialEq for ParkResult","synthetic":false,"types":[]},{"text":"impl StructuralPartialEq for UnparkResult","synthetic":false,"types":[]},{"text":"impl StructuralPartialEq for RequeueOp","synthetic":false,"types":[]},{"text":"impl StructuralPartialEq for FilterOp","synthetic":false,"types":[]},{"text":"impl StructuralPartialEq for UnparkToken","synthetic":false,"types":[]},{"text":"impl StructuralPartialEq for ParkToken","synthetic":false,"types":[]}];
+if (window.register_implementors) {window.register_implementors(implementors);} else {window.pending_implementors = implementors;}})()

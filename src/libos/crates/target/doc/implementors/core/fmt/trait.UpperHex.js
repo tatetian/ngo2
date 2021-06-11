@@ -1,0 +1,3 @@
+(function() {var implementors = {};
+implementors["io_uring"] = [{"text":"impl UpperHex for TimeoutFlags","synthetic":false,"types":[]},{"text":"impl UpperHex for FsyncFlags","synthetic":false,"types":[]},{"text":"impl UpperHex for Flags","synthetic":false,"types":[]}];
+if (window.register_implementors) {window.register_implementors(implementors);} else {window.pending_implementors = implementors;}})()

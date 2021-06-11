@@ -1,0 +1,1 @@
+initSidebarItems({"struct":[["Fd",""],["Fixed",""],["FsyncFlags",""],["OpenHow",""],["TimeoutFlags",""],["Timespec",""],["epoll_event","Opaque types, you should use `libc::epoll_event` instead."],["statx","Opaque types, you should use `libc::statx` instead."]],"type":[["RwFlags",""]]});
